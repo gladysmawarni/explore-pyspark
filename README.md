@@ -1,7 +1,8 @@
 # Exploring big data using PySpark
 
 This repo consists of my notebooks that i created while exploring and learning to use PySpark. <br>
-_To be updated with exploration on MLlib_
+My PySpark presentation can be found [here](https://www.canva.com/design/DAFI8dEpEe4/nL8GFCU7LMYe5pAb0V8Xeg/view?utm_content=DAFI8dEpEe4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). <br>
+(_To be updated with exploration on MLlib_)
 
 ## [Open Food Facts Data Analysis](https://github.com/gladysmawarni/exploring-pyspark/blob/main/openfood_analysis.ipynb)
 This notebook consists of the very basics of PySpark. I used the data from [openfoodfacts](https://world.openfoodfacts.org/data) to simulate working with a huge dataset (>6GB) that i cannot process with Pandas using the computational power that i have.<br>
