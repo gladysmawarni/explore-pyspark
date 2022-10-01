@@ -8,7 +8,7 @@ This notebook consists of the very basics of PySpark. I used the data from [open
 (_Open food facts is an open-source database that contains  nutrition facts for food products sold in each country, and all nutrition information._) <br>
 <br>
 With this dataset i explore how to do data cleaning and data exploration using PySpark, and manage to answer some questions i found interesting: <br>
-1. Which food categories has on average the best and worst nutriscore?
+1. Which food category has on average the best and worst nutriscore?
 2. Which country has on average the best nutriscore?
 3. Which country on average do more exports?
 
